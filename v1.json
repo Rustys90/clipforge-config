@@ -1,0 +1,33 @@
+{
+  "engineOrder": [
+    "watchpage",
+    "visionos",
+    "tv_samsung",
+    "web_safari+cookies",
+    "cookies+aria2c",
+    "android-family+aria2c",
+    "web-family+aria2c",
+    "android-family+native",
+    "newpipe",
+    "invidious",
+    "piped",
+    "pot-minter"
+  ],
+  "killSignals": [
+    "po token expired",
+    "token refresh failed",
+    "player response parse",
+    "gvs 403",
+    "http 429",
+    "content not available"
+  ],
+  "poToken": {
+    "apiKey": "AIzaSyDyT5W0Jh49F30Pqqtyfdf7pDLFKLJoAnw",
+    "createUrl": "https://www.youtube.com/api/jnn/v1/Create",
+    "desktopUa": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "generateItUrl": "https://www.youtube.com/api/jnn/v1/GenerateIT",
+    "requestKey": "O43z0dpjhgX20SCx4KAo",
+    "visitorIdUrl": "https://www.youtube.com/youtubei/v1/visitor_id"
+  },
+  "_readme": "See README.md. Update this file to push config changes to the ManiClips Android app without an APK release."
+}
